@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=29&pause=1000&color=0692F7&width=435&lines=I'M+POURYA+MEAMRIAN" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=29&pause=1000&color=0692F7&width=435&lines=I'M+POURYA+MEAMARIAN" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=29&pause=1000&color=0692F7&width=435&lines=DB+-+AI+-+ML+%3D+%3E+DEVELOPER" alt="Typing SVG" />
 
