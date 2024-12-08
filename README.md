@@ -9,7 +9,7 @@
 <p align="LEFT">
 <a href="https://x.com/@pouryamean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pouryamean" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pourya-meamarian-b00236240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pourya-meamarian-b00236240" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20466091/pourya-meamrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20466091/pourya-meamrian" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20466091/pourya-meamrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="https://t.me/pourya_tech" height="30" width="40" /></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Anton&size=29&pause=1000&color=0692F7&width=435&lines=Languages+%26+TOOLS+%3A" alt="Typing SVG" />
