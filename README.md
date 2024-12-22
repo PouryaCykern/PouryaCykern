@@ -8,7 +8,7 @@
 
 <p align="LEFT">
 <a href="https://x.com/@pouryamean" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000" alt="@pouryamean" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pourya-meamarian-b00236240" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=000000" alt="https://www.linkedin.com/in/pourya-meamarian-b00236240" height="100" width="100" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pourya-meamarian-b00236240" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=000000" alt="https://www.linkedin.com/in/pourya-meamarian-b00236240" height="60" width="60" /></a>
 <a href="https://t.me/pourya_support" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Q7Ekaw3BkWRp&format=png&color=000000" alt="@pouryamean" >
 </p>
 
