@@ -5,11 +5,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Anton&size=29&pause=1000&color=0692F7&width=435&lines=ASK+ME+ABOUT+%3A+ORACEL+-++SQL+-+PYTHON" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Anton&size=29&pause=1000&color=0692F7&width=435&lines=CONNECT+ME+%3A+" alt="Typing SVG" />
-
 <p align="LEFT">
-<a href="https://x.com/@pouryamean" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000" alt="@pouryamean" height="30" width="40" /></a>
+  
+<a href="https://t.me/pourya_support" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Q7Ekaw3BkWRp&format=png&color=000000" alt="@pouryamean"  height="60" width="60" /></a>
+
+<a href="https://x.com/@pouryamean" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000" alt="@pouryamean" height="60" width="60"  /></a>
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pourya-meamarian-b00236240" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=000000" alt="https://www.linkedin.com/in/pourya-meamarian-b00236240" height="60" width="60" /></a>
-<a href="https://t.me/pourya_support" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Q7Ekaw3BkWRp&format=png&color=000000" alt="@pouryamean" >
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Anton&size=29&pause=1000&color=0692F7&width=435&lines=Languages+%26+TOOLS+%3A" alt="Typing SVG" />
