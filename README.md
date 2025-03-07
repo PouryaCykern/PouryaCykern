@@ -15,5 +15,3 @@
 <p align="LEFT">
 <a href="https://www.w3schools.com/SQL/deFault.asp&ved=2ahUKEwjxypODu7uKAxVBR_4FHQd5FKYQFnoECA4QAQ&usg=AOvVaw1IbQFqdQ0R8ULIjs5cquap" target="blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=59952&format=png&color=000000" alt="python" width="70" height="70"/></a>
 <a href="https://www.oracle.com/" target="blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=69475&format=png&color=000000" alt="oracle" width="70" height="70"/></a><a href="https://www.python.org" target="blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" alt="python" width="70" height="70"/></a></p>
-
-<p align="CENTER"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pouryameamarian" alt="pouryameamarian" /></a> </p>
