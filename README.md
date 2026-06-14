@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=29&pause=1000&color=0692F7&width=435&lines=I'M+POURYA+MEAMARIAN" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=29&pause=1000&color=0692F7&width=435&lines=I'M+POURYA+MEAMARIAN+(Cykern)" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=29&pause=1000&color=0692F7&width=435&lines=DB+-+AI+-+ML+%3D+%3E+DEVELOPER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=29&pause=1000&color=0692F7&width=435&lines=Data++Analyst" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Anton&size=29&pause=1000&color=0692F7&width=435&lines=ASK+ME+ABOUT+%3A+ORACEL+-++SQL+-+PYTHON" alt="Typing SVG" />
 
