@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=29&pause=1000&color=0692F7&width=435&lines=Data++Analyst" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Anton&size=29&pause=1000&color=0692F7&width=435&lines=ASK+ME+ABOUT+%3A+ORACEL+-++SQL+-+PYTHON" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Anton&size=29&pause=1000&color=0692F7&width=435&lines=ASK+ME+ABOUT+%3A+Power+BI+-++SQL+-+PYTHON" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Anton&size=29&pause=1000&color=0692F7&width=435&lines=CONNECT+ME+%3A+" alt="Typing SVG" />
 <p align="LEFT">
@@ -15,3 +15,5 @@
 <p align="LEFT">
 <a href="https://www.w3schools.com/SQL/deFault.asp&ved=2ahUKEwjxypODu7uKAxVBR_4FHQd5FKYQFnoECA4QAQ&usg=AOvVaw1IbQFqdQ0R8ULIjs5cquap" target="blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=59952&format=png&color=000000" alt="python" width="70" height="70"/></a>
 <a href="https://www.oracle.com/" target="blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=69475&format=png&color=000000" alt="oracle" width="70" height="70"/></a><a href="https://www.python.org" target="blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" alt="python" width="70" height="70"/></a></p>
+
+<img style="text-align:center;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_map_of_Germany.svg" alt="DE" width="250" height="250"/>
